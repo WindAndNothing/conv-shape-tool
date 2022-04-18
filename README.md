@@ -5,9 +5,9 @@ A tool help cumputing the shape of convolution layers.
 <p><img src="/python.png"" /></p>  
   
 ## 功能(Function): 
-  填写输入尺寸，配置网络，计算输出尺寸。  
+  计算任意层数的神经网络输出尺寸。  
   目前仅支持卷积层。  
-  Set input shape and neural network, compute output shape.  
+  Compute output shape with any amount of layers.  
   At present, only convolution layer is supported.  
   
 ## 系统要求(System required)：
