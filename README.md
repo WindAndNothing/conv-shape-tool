@@ -18,14 +18,14 @@ A tool help cumputing the shape of convolution layers.
   press *code* to download, run *main.py* to start up
   
 ## 使用说明(How to use)：
-  1. 点击“+”添加网络层，下拉框选择网络类型；
-  2. 填写输入尺寸及网络参数；
-  3. 点击“Input”计算输出尺寸。
-  1. press **+** to add a layer, use combobox to select the type of layers.
-  2. set parameter of input shape and layers.
-  3. press *Input* to compute the ouput shape.
+  1. 点击“+”添加网络层，下拉框选择网络类型；  
+  press **+** to add a layer, use combobox to select the type of layers.
+  2. 填写输入尺寸及网络参数；  
+  set parameter of input shape and layers.
+  3. 点击“Input”计算输出尺寸。   
+  press *Input* to compute the ouput shape.
   
 ## 更新计划：  
-- 添加全连接层
-- 部分参数自动配置
-- 无环结构支持，类似U-Net Res-Net
+- [ ] 添加全连接层
+- [ ] 部分参数自动配置
+- [ ] 无环结构支持，类似U-Net Res-Net
