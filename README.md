@@ -4,6 +4,9 @@ A tool help cumputing the shape of convolution layers.
 
 <p><img src="/python.png"" /></p>  
   
+  计算参数以pytorch为基准
+  Parameter based on Pytorch
+  
 ## 功能(Function): 
   计算任意层数的神经网络输出尺寸。  
   目前仅支持卷积层。  
