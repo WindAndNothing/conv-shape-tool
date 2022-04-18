@@ -27,5 +27,5 @@ A tool help cumputing the shape of convolution layers.
   
 ## 更新计划：  
 - [ ] 添加全连接层
-- [ ] 部分参数自动配置
+- [ ] 部分参数自动配置，特别是全连接层
 - [ ] 无环结构支持，类似U-Net Res-Net
